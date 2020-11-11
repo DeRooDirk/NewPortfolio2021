@@ -1,22 +1,27 @@
-/*Start styling imports*/
 /*-- Reset --*/
+
+
 /* Box sizing rules */
+
 *,
 *::before,
 *::after {
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
+
 
 /* Remove default padding */
+
 ul[class],
 ol[class] {
-  padding: 0;
+    padding: 0;
 }
 
+
 /* Remove default margin */
+
 body,
 h1,
 h2,
@@ -29,13 +34,14 @@ figure,
 blockquote,
 dl,
 dd {
-  margin: 0;
+    margin: 0;
 }
 
+
 /* Make images easier to work with */
+
 img {
-  max-width: 100%;
-  height: auto;
-  display: block;
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
-/*# sourceMappingURL=style.css.map */
